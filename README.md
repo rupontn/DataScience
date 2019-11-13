@@ -17,6 +17,12 @@ The jupyter notebooks contain the following:
 
 
 ### [House Price: Advance Regression](https://github.com/rupontn/DataScience/blob/master/House%20Price_%20Advance%20Regression%20Technique.ipynb)
+This is another project from [Kaggle competitin ](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) where 79 explanatory variable describes every aspects of a residential home and these factors are used to predict the house price. 
+The jupiter notebook contains the following:
+1. Taking care of missing values: There were a lot of missing values in the categorical variable and numerical variable. The missing    values in Categorical variable were replaced by most frequently appeared variable and missing value in numerical variable were replaced by the mean value.. 
+2. Feature Engineering: Encoding categorical variable and finding out that distribution in target variable is skewed in nature. Taking log of the target variable maked it more normal distributed dataset and improves the overall accuarcy. 
+3. Train and Test the dataset: The existing dataset was splitted between validation set and training set to avoid overfitting. 
+4. Evaluating different ML models: Lasso Model, Ridge Model, decision tree Regression, Random Forest Regression were used to predict the target price. 
 
 
 ### [Planar Data Classification with Neural Network](https://github.com/rupontn/DataScience/blob/master/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
