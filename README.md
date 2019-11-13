@@ -26,5 +26,11 @@ The jupiter notebook contains the following:
 
 
 ### [Planar Data Classification with Neural Network](https://github.com/rupontn/DataScience/blob/master/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
+This project is a part of Coursera's Neural network and Deep Learning Course. It solves a Planar Data classification problem by using neural network. The Jupiter Notebook contains the following-
+1. Use a 2 class classification neural network with a single hidden layer. 
+2. Compute cross entropy loss. 
+3. Compute forward and backward propagation. 
 
 ### [Cat Image Classifier with Neural Network](https://github.com/rupontn/DataScience/blob/master/Cat%20Image%20Classifier%20with%20Logistic_Regression%20with%20a%20Neural%20Network%20mindset.ipynb) 
+
+This project is a part of Coursera's Neural network and Deep Learning Course. It solves Cat vs non Cat classification problem building a image recognition algorithm by deep neural network. 
