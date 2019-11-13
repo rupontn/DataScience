@@ -6,7 +6,14 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ### [Titanic Survival Prediction](https://github.com/rupontn/DataScience/blob/master/Titanic%20Survival%20Prediction%205.ipynb)
 
-
+This projects explore data analysis, data visualization and machine learning algorithms to predict survival of passengers on the titanic. Dataset is publicly available. In particular, this version was downloaded from the [Kaggle competition website](https://www.kaggle.com/c/titanic).
+The jupyter notebooks contain the following:
+ 1. Feature exploration about the passengers on the titanic.
+ 2. Visualization of different feature to find out relationship with target survival prediction.
+ 3. exploration about the association of  different features of  dataset to predict survival of patient.  
+ 4. Preprocessing of the dataset for model building, including feature extraction and taking care of missing data. 
+ 5. Extraction of additional features from existing ones. The idea behind is to try to capture trends and insights that could be helpful     for the learning algorithms.
+ 6. General model building without deep adjustment of the parameters to get an idea of which model would work best for this dataset
 
 
 ### [House Price: Advance Regression](https://github.com/rupontn/DataScience/blob/master/House%20Price_%20Advance%20Regression%20Technique.ipynb)
