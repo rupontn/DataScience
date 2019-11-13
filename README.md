@@ -10,3 +10,6 @@ Repository containing portfolio of data science projects completed by me for aca
 
 
 ### [House Price: Advance Regression](https://github.com/rupontn/DataScience/blob/master/House%20Price_%20Advance%20Regression%20Technique.ipynb)
+
+
+### [Planar Data Classification with Neural Network] (https://github.com/rupontn/DataScience/blob/master/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
