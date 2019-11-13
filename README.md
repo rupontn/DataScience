@@ -5,3 +5,8 @@ Repository containing portfolio of data science projects completed by me for aca
 ## Projects:
 
 ### [Titanic Survival Prediction](https://github.com/rupontn/DataScience/blob/master/Titanic%20Survival%20Prediction%205.ipynb)
+
+
+
+
+### [House Price: Advance Regression](https://github.com/rupontn/DataScience/blob/master/House%20Price_%20Advance%20Regression%20Technique.ipynb)
