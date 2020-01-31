@@ -4,6 +4,10 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Projects:
 
+### [Building a Recurrent Neural Network Step by Step](https://github.com/rupontn/DataScience/blob/master/Building%20a%20Recurrent%20Neural%20Network%20Step%20by%20Step.ipynb)
+
+Built a recurrent neural network step by step as part of coursera "Sequence Model" by deeplearning.ai. A basic RNN module is created where input time steps is equal to output time steps. At first the code for one time steps is created in  rnn_cell_forward function. Then it is looped over all time steps by rnn_forward function. rnn_forward function implement the forward propagation over time steps.  Main problem with simple RNN Network is the vanishing gradient problem. To solve this problem LSTM model is built where predicted value at each time steps will be estimated using local context. In LSTM cell there will be a forget state which will keep track of the important previous state. It has a value beteen 0 and 1. There is also a candidate value and update gate which decides which values are important to go to next state. one time step of a LSTM network is created by lstm_cell_forward function. lstm_forward function implement the forward propagation over all the time steps.
+
 ### [Titanic Survival Prediction](https://github.com/rupontn/DataScience/blob/master/Titanic%20Survival%20Prediction%205.ipynb)
 
 This projects explore data analysis, data visualization and machine learning algorithms to predict survival of passengers on the titanic. Dataset is publicly available. In particular, this version was downloaded from the [Kaggle competition website](https://www.kaggle.com/c/titanic).
